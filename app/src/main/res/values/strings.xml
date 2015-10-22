@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android Developers Blog</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="refresh">Refresh</string>
+    <string name="sync_account_type">br.com.bsz.androiddevelopersblog</string>
+    <string name="content_authority">br.com.bsz.androiddevelopersblog</string>
+    <string name="notification_news">News arrived!</string>
+    <string name="action_share">share</string>
+    <string name="not_online">You have no internet connection</string>
+    <!-- prefrences -->
+    <string name="amount_articles">Amount of displayed articles</string>
+    <string name="amount_articles_pref_key">amount_articles_pref_key</string>
+    <string name="receive_notification">Receive notifications</string>
+    <string name="notification_pref_key">notification_pref_key</string>
+</resources>

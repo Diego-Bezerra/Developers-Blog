@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#1d475c</color>
+    <color name="action_bar">#415C66</color>
+    <color name="white">#ffffff</color>
+    <color name="back">#DDDDDD</color>
+    <color name="action_menu_text">#747474</color>
+    <color name="transparent">@android:color/transparent</color>
+</resources>

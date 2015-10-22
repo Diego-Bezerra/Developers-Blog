@@ -1,0 +1,26 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="windowActionBar">false</item>
+        <item name="textAppearanceLargePopupMenu">@style/toolbarPopup</item>
+        <item name="textAppearanceSmallPopupMenu">@style/toolbarPopup</item>
+        <item name="android:windowBackground">@color/back</item>
+    </style>
+
+    <style name="toolBarStyle">
+        <item name="android:background">@color/action_bar</item>
+    </style>
+
+    <style name="PreferenceScreen" parent="AppTheme">
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="toolbarPopup" parent="Widget.AppCompat.Light.PopupMenu">
+        <!--<item name="android:background">@color/navigation_drawer_back</item>-->
+        <item name="android:textColor">@color/action_menu_text</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>
